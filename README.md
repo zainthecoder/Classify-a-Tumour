@@ -12,6 +12,10 @@
 
 ![image](https://user-images.githubusercontent.com/23193284/50264211-a0477880-043f-11e9-8fd0-2737910860d9.png)
 
+## Data
+
+![image](https://user-images.githubusercontent.com/23193284/50265349-35993b80-0445-11e9-8b51-958b3b6329d3.png)
+
 
 ## **Results**
 ### Accuracy of the model: 98.2%
