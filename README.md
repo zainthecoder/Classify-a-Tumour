@@ -1,5 +1,8 @@
 # Classify-a-Tumour
 
+![image](https://user-images.githubusercontent.com/23193284/50264842-996e3500-0442-11e9-9951-88195736fe7d.png)
+
+
 ![image](https://user-images.githubusercontent.com/23193284/50264797-51e7a900-0442-11e9-9997-047d1642b315.png)
 
 
