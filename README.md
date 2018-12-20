@@ -1,6 +1,6 @@
 # Classify-a-Tumour
 
-## **Classifier** to identify patients with benign or malignant tumor based on the tumor characteristics
+## **Classifier** to identify patients with benign or malignant tumor based on the tumor characteristics.
 
 ## The classifier is coded from *scratch* on matlab. No libraries used for model training and model building.
 
@@ -14,6 +14,7 @@
 
 
 ## **Results**
+### Accuracy of the model: 98.2%
 
 ![image](https://user-images.githubusercontent.com/23193284/50264245-be14dd80-043f-11e9-823b-a352357b82c0.png)
 
