@@ -1,8 +1,8 @@
 # Classify-a-Tumour
 
-##**Classifier** to identify patients with benign or malignant tumor based on the tumor characteristics
+## **Classifier** to identify patients with benign or malignant tumor based on the tumor characteristics
 
-###The classifier is coded from *scratch* on matlab.
+## The classifier is coded from *scratch* on matlab.
 
 ![image](https://user-images.githubusercontent.com/23193284/50264842-996e3500-0442-11e9-9951-88195736fe7d.png)
 
